@@ -220,5 +220,3 @@ ZEPPELIN-3195	Unexpected behavior	Problems in settings	Modifying documents
 ZEPPELIN-3918	Build and testing error	Problems in my libraries	Switching to newer versions
 ZEPPELIN-4002	Unexpected behavior	Problems in my clients	Modifying input values
 ZOOKEEPER-3151	Build and testing error	Problems in settings	Modifying my settings
-			
-			

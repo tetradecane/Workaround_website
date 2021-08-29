@@ -1,4 +1,4 @@
-# The Symptoms, Causes and Repairs of Apache Workarounds: An Empirical Study
+# The Symptoms, Causes, and Repairs of Workarounds in Apache Issue Trackers
 
 ## Project summary
 
@@ -12,6 +12,4 @@ In this paper, we analyze 221 real workarounds that were collected from Apache p
 
 In dataset, we provide the JIRA ids, symptoms, causes, repairs of collected workarounds.
 
-1, download all the content under "dataSet.txt" and save it as a "UTF-16 LE" coded txt file.
-
-2, open the above file as an Excel file.
+The content under "dataSet.txt" can be opened as an Excel file.
