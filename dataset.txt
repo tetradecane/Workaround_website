@@ -41,7 +41,6 @@ CB-12113	Unexpected behavior	Problems in my libraries	Switching to older version
 CB-12413	Unexpected behavior	Problems in settings	Modifying build files or options
 CB-12688	Unexpected behavior	Flawed repairs	Modifying the settings of libraries
 CB-13038	Unexpected behavior	Incorrect techniques	Switching to other techniques
-CELIX-346	Crash	Fixed by related issues	Switching to other techniques
 COMPRESS-449	Crash	Problems in languages	Implementing wrappers
 COMPRESS-471	Unexpected behavior	Flawed repairs	Implementing wrappers
 CTAKES-363	Crash	Problems in my clients	Repairing as technical debts
@@ -49,19 +48,15 @@ CTAKES-409	Unexpected behavior	Problems in my libraries	Deep copying
 CTAKES-413	Crash	Incorrect techniques	Switching to other techniques
 CXF-5773	Unexpected behavior	Problems in my libraries	Switching to other techniques + Modifying the settings of libraries 
 CXF-6747	Unexpected behavior	Problems in my libraries	Switching to other libraries
-CXF-6931	Crash	Problems in my libraries + Fixed by newer versions 	Switching to newer versions
 CXF-7127	Unexpected behavior	Problems in my clients	Switching to other libraries + Modifying the settings of libraries 
 CXF-7308	Unexpected behavior	Problems in my libraries	Modifying the settings of libraries
 CXF-7685	Build and testing error	Problems in my clients	Modifying API calls
-CXF-7722	Unexpected behavior	Problems in my libraries + Fixed by newer versions 	Modifying my settings
 CXF-8103	Unexpected behavior	Problems in my libraries	Modifying my settings
 DERBY-7043	Unexpected behavior	Unavailable resources	Modifying build files or options
-DIRKRB-615	Unexpected behavior	Fixed by related issues	Switching to other techniques
 DIRSTUDIO-1113	Unexpected behavior	Incompatible issues	Deep copying
 DIRSTUDIO-1142	Crash	Borderline cases	Switching to other techniques
 DIRSTUDIO-1143	Crash	Problems in settings	Modifying my settings
 DIRSTUDIO-1173	Crash	Incorrect techniques	Switching to other techniques
-DRILL-4171	Crash	Fixed by related issues	Modifying the settings of libraries
 DRILL-4177	Crash	Problems in my libraries	Modifying the settings of libraries
 DRILL-6906	Security threat	Problems in settings	Modifying my settings
 FINERACT-235	Unexpected behavior	Borderline cases	Modifying API calls
@@ -73,9 +68,7 @@ FLINK-10960	Crash	Borderline cases	Modifying documents
 FLINK-11641	Hang	Problems in settings	Modifying my settings
 FLINK-12462	Crash	Problems in languages	Switching to older versions
 FLINK-5633	Build and testing error	Problems in settings	Modifying API calls
-FLINK-5673	Crash	Fixed by related issues	Fixed problems
 FLINK-5898	Crash	Problems in my libraries	Switching to newer versions
-FLINK-5946	Performance issue	Problems in my libraries + Fixed by newer versions 	Switching to newer versions
 FLINK-7274	Crash	Incompatible issues	Modifying API calls
 FOP-2726	Crash	Problems in my libraries	Modifying build files or options
 FREEMARKER-87	Unexpected behavior	Incompatible issues	Overridden APIs
@@ -91,10 +84,8 @@ HDFS-9513	Crash	Problems in my clients	Implementing wrappers
 HIVE-18849	Crash	Problems in languages	Modifying build files or options
 HIVE-21367	Unexpected behavior	Problems in settings	Modifying my settings
 HIVEMALL-30	Build and testing error	Problems in my clients	Modifying my settings
-IGNITE-11401	Crash	Fixed by related issues	Modifying API calls
 IGNITE-5505	Unexpected behavior	Incompatible issues 	Modifying my settings
 IMPALA-2511	Hang	Flaky problems	Fixed problems
-IMPALA-2655	Crash	Problems in my libraries + Fixed by related issues	Fixed problems
 IMPALA-3248	Build and testing error	Problems in my libraries	Modifying build files or options
 IMPALA-3341	Build and testing error	Problems in languages	Deleting temporary files
 IMPALA-4843	Unexpected behavior	Borderline cases	Switching to newer versions
@@ -124,13 +115,11 @@ KAFKA-4149	Build and testing error	Problems in settings	Modifying build files or
 KAFKA-5861	Hang	Problems in my clients	Modifying API calls
 KUDU-1419	Crash	Problems in operating systems	Modifying operating systems
 KUDU-282	Crash	Problems in settings	Modifying my settings
-KUDU-402	Hang	Problems in my libraries + Fixed by newer versions	Switching to newer versions
 KYLIN-1089	Crash	Problems in my libraries	Switching to newer versions
 KYLIN-1842	Crash	Problems in my libraries	Modifying the settings of libraries
 KYLIN-2020	Build and testing error	Problems in my libraries	Modifying the settings of libraries
 KYLIN-2326	Crash	Problems in settings	Switching to newer versions
 KYLIN-2587	Crash	Problems in my libraries	Modifying my settings
-KYLIN-3751	Crash	Fixed by newer versions	Switching to newer versions
 KYLIN-4082	Crash	Unavailable resources	Modifying build files or options
 KYLIN-4123	Crash	Problems in my libraries	Switching to older versions
 LENS-1009	Crash	Problems in my clients	Fixed problems
@@ -140,7 +129,6 @@ LUCENE-7248	Crash	Problems in my clients	Unfixed problems
 MADLIB-889	Unexpected behavior	Problems in settings	Modifying my settings
 MASSEMBLY-828	Unexpected behavior	Problems in my clients	Modifying my settings
 MCOMPILER-277	Build and testing error	Incorrect techniques	Switching to other techniques
-MDEPLOY-221	Unexpected behavior	Fixed by newer versions	Switching to newer versions
 MESOS-4827	Crash	Problems in settings	Modifying my settings
 MESOS-5441	Build and testing error	Problems in operating systems	Modifying operating systems
 MESOS-5624	Build and testing error	Problems in settings	Modifying build files or options
@@ -156,21 +144,16 @@ NEMO-416	Crash	Problems in my libraries	Bypassing APIs with bugs
 NETBEANS-2733	Unexpected behavior	Problems in settings	Deleting temporary files
 NETBEANS-2840	Build and testing error	Unavailable resources	Modifying my settings
 NIFIREG-142	Crash	Problems in my libraries	Switching to other libraries
-OAK-7779	Crash	Fixed by related issues	Fixed problems
 ODE-1073	Crash	Problems in settings	Modifying my settings
-ODFTOOLKIT-375	Crash	Fixed by newer versions	Switching to newer versions
 OFBIZ-6807	Crash	Flawed repairs	Modifying my settings
 OFBIZ-9664	Unexpected behavior	Flawed repairs	Modifying my settings
 OLINGO-926	Unexpected behavior	Problems in settings	Switching to other techniques
 OPENJPA-2671	Unexpected behavior	Incompatible issues	Modifying my settings
-OPENMEETINGS-1575	Unexpected behavior	Fixed by newer versions + Problems in my libraries 	Switching to newer versions
 OPENNLP-1129	Build and testing error	Unavailable resources	Unfixed problems
 PDFBOX-4396	Crash	Problems in languages	Unfixed problems
 PLC4X-116	Build and testing error	Problems in settings	Modifying build files or options
-RANGER-2149	Performance issue	Fixed by newer versions + Problems in my libraries 	Switching to newer versions
 RNG-38	Build and testing error	Problems in my libraries	Modifying my settings
 SENTRY-951	Unexpected behavior	Problems in my clients	Modifying my settings
-SOLR-11049	Unexpected behavior	Fixed by related issues	Implementing wrappers
 SOLR-11335	Crash	Problems in operating systems	Fixed problems
 SOLR-11369	Security threat	Problems in settings	Switching to newer versions + Modifying my settings
 SOLR-11386	Unexpected behavior	Problems in settings	Modifying my settings
@@ -188,7 +171,6 @@ SPARK-13863	Unexpected behavior	Problems in my clients	Modifying API calls
 SPARK-14203	Unexpected behavior	Problems in my clients	Modifying API calls
 SPARK-20394	Unexpected behavior	Problems in settings	Modifying my settings
 SPARK-22711	Crash	Problems in my clients	Modifying API calls
-SPOT-200	Crash	Problems in my libraries + Fixed by newer versions	Switching to newer versions
 SPOT-26	Crash	Borderline cases	Modifying my settings
 SSHD-754	Crash	Problems in my clients + Problems in the network	Modifying my settings + Repairing as technical debts
 SYNAPSE-1098	Unexpected behavior	Problems in my clients	Modifying API calls
@@ -211,11 +193,8 @@ TOREE-411	Unexpected behavior	Problems in my libraries	Modifying the settings of
 TOREE-428	Crash	Problems in my libraries	Bypassing APIs with bugs
 WEEX-229	Unexpected behavior	Problems in my clients	Modifying input formats
 XMLBEANS-512	Crash	Problems in my libraries	Switching to other libraries
-YARN-5381	Crash	Fixed by related issues	Fixed problems
 YARN-8279	Crash	Problems in settings	Modifying my settings
-ZEPPELIN-1966	Security threat	Fixed by related issues	Switching to newer versions
 ZEPPELIN-2877	Build and testing error	Problems in my libraries	Switching to older versions + Modifying build files or options
-ZEPPELIN-3175	Hang	Fixed by newer versions	Fixed problems
 ZEPPELIN-3195	Unexpected behavior	Problems in settings	Modifying documents
 ZEPPELIN-3918	Build and testing error	Problems in my libraries	Switching to newer versions
 ZEPPELIN-4002	Unexpected behavior	Problems in my clients	Modifying input values
