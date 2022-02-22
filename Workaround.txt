@@ -1,0 +1,201 @@
+ID	Symptoms	Causes	Repairs	time_to_resolve	n_watchers	n_comments
+AIRFLOW-217	Crash	Problems in settings	Modifying build files or options	22	1	1
+AIRFLOW-43	Crash	Problems in operating systems	Modifying operating systems	27	6	11
+AIRFLOW-436	Unexpected behavior	Problems in my clients	Modifying API calls	1368	3	3
+AIRFLOW-522	Crash	Problems in settings	Modifying build files or options	7	2	2
+AIRFLOW-884	Unexpected behavior	Flaky problems	Unfixed problems	144	2	2
+AMBARI-15971	Crash	Problems in settings	Modifying build files or options	704	2	2
+AMQ-5702	Crash	Problems in my clients	Modifying input formats	8911	3	3
+AMQ-6162	Unexpected behavior	Borderline cases	Modifying my settings	625	3	7
+AMQ-6231	Unexpected behavior	Incorrect techniques	Switching to other techniques	216	3	2
+AMQ-6976	Performance issue	Problems in my libraries	Modifying the settings of libraries	1176	3	5
+ARROW-192	Build and testing error	Problems in settings	Modifying build files or options	54	2	6
+ARROW-5539	Build and testing error	Flaky problems	Deleting temporary files	22	3	2
+ARTEMIS-2132	Crash	Problems in my libraries + Problems in settings	Switching to older versions + Modifying my settings	6200	1	1
+ARTEMIS-2184	Crash	Incorrect techniques	Switching to other techniques	5105	2	1
+ASTERIXDB-1518	Build and testing error	Problems in settings	Modifying build files or options	6617	3	2
+ASTERIXDB-1675	Crash	Problems in my clients	Modifying build files or options 	13	5	11
+ASTERIXDB-1767	Errors in warning message	Problems in settings	Modifying my settings	2282	2	2
+ATLAS-1057	Build and testing error	Unavailable resources	Modifying build files or options	18	3	5
+BEAM-1048	Unexpected behavior	Flawed repairs	Repairing as technical debts	3092	5	6
+BEAM-2268	Crash	Problems in settings	Modifying my settings	3	2	3
+BEAM-3525	Unexpected behavior	Problems in my clients	Modifying my settings	26	2	3
+BEAM-6289	Crash	Problems in my libraries	Modifying the settings of libraries	328	4	13
+BEAM-6460	Unexpected behavior	Problems in my libraries	Bypassing APIs with bugs	101	3	2
+BROOKLYN-588	Build and testing error	Problems in operating systems	Modifying operating systems + Modifying documents 	260	2	7
+CAMEL-12367	Crash	Flawed repairs	Modifying the settings of libraries	94	3	7
+CAMEL-12668	Unexpected behavior	Flawed repairs	Modifying API calls	620	3	17
+CAMEL-13089	Crash	Problems in my clients	Switching to other libraries	51	4	10
+CAMEL-9107	Crash	Problems in my libraries	Bypassing APIs with bugs	5806	3	7
+CAMEL-9463	Crash	Problems in my libraries	Switching to older versions	2875	4	8
+CASSANDRA-13212	Crash	Problems in my libraries	Modifying the settings of libraries	26	2	3
+CAY-2147	Crash	Problems in settings	Modifying my settings	2908	2	1
+CB-10939	Unexpected behavior	Problems in settings	Modifying my settings	310	1	1
+CB-10950	Crash	Problems in operating systems	Modifying API calls	15901	6	7
+CB-11449	Unexpected behavior	Problems in my libraries + Problems in operating systems	Switching to older versions	17	2	5
+CB-11974	Unexpected behavior	Outside contributors	Repairing as technical debts	15399	5	8
+CB-12002	Unexpected behavior	Flawed repairs	Repairing as technical debts	14506	4	20
+CB-12037	Unexpected behavior	Problems in my libraries	Switching to other libraries	15083	7	5
+CB-12078	Build and testing error	Flawed repairs	Switching to other techniques	119	2	3
+CB-12113	Unexpected behavior	Problems in my libraries	Switching to older versions	18	1	5
+CB-12413	Unexpected behavior	Problems in settings	Modifying build files or options	722	3	2
+CB-12688	Unexpected behavior	Flawed repairs	Modifying the settings of libraries	203	3	8
+CB-13038	Unexpected behavior	Incorrect techniques	Switching to other techniques	1217	5	7
+COMPRESS-449	Crash	Problems in languages	Implementing wrappers	338	3	12
+COMPRESS-471	Unexpected behavior	Flawed repairs	Implementing wrappers	288	2	8
+CTAKES-363	Crash	Problems in my clients	Repairing as technical debts	15547	2	3
+CTAKES-409	Unexpected behavior	Problems in my libraries	Deep copying	3584	3	3
+CTAKES-413	Crash	Incorrect techniques	Switching to other techniques	1724	3	2
+CXF-5773	Unexpected behavior	Problems in my libraries	Switching to other techniques + Modifying the settings of libraries 	25014	3	1
+CXF-6747	Unexpected behavior	Problems in my libraries	Switching to other libraries	10437	8	13
+CXF-7127	Unexpected behavior	Problems in my clients	Switching to other libraries + Modifying the settings of libraries 	1	1	2
+CXF-7308	Unexpected behavior	Problems in my libraries	Modifying the settings of libraries	1088	4	5
+CXF-7685	Build and testing error	Problems in my clients	Modifying API calls	35	2	3
+CXF-8103	Unexpected behavior	Problems in my libraries	Modifying my settings	133	2	12
+DERBY-7043	Unexpected behavior	Unavailable resources	Modifying build files or options	20	4	5
+DIRSTUDIO-1113	Unexpected behavior	Incompatible issues	Deep copying	26	2	3
+DIRSTUDIO-1142	Crash	Borderline cases	Switching to other techniques	936	2	1
+DIRSTUDIO-1143	Crash	Problems in settings	Modifying my settings	1299	3	8
+DIRSTUDIO-1173	Crash	Incorrect techniques	Switching to other techniques	15	2	6
+DRILL-4177	Crash	Problems in my libraries	Modifying the settings of libraries	4898	4	4
+DRILL-6906	Security threat	Problems in settings	Modifying my settings	510	5	4
+FINERACT-235	Unexpected behavior	Borderline cases	Modifying API calls	3175	4	6
+FLEX-34733	Build and testing error	Unavailable resources	Modifying build files or options	11212	1	2
+FLEX-34754	Unexpected behavior	Problems in settings	Modifying my settings	10883	5	4
+FLEX-35309	Unexpected behavior	Problems in my libraries	Switching to other libraries	326	3	3
+FLEX-35363	Build and testing error	Problems in the network	Modifying build files or options	767	3	6
+FLINK-10960	Crash	Borderline cases	Modifying documents	1036	4	7
+FLINK-11641	Hang	Problems in settings	Modifying my settings	18	3	3
+FLINK-12462	Crash	Problems in languages	Switching to older versions	97	3	5
+FLINK-5633	Build and testing error	Problems in settings	Modifying API calls	145	4	8
+FLINK-5898	Crash	Problems in my libraries	Switching to newer versions	2030	4	13
+FLINK-7274	Crash	Incompatible issues	Modifying API calls	17	3	6
+FOP-2726	Crash	Problems in my libraries	Modifying build files or options	121	2	4
+FREEMARKER-87	Unexpected behavior	Incompatible issues	Overridden APIs	261	3	21
+GEODE-2151	Build and testing error	Flawed repairs	Modifying operating systems	10268	1	2
+GEODE-2412	Build and testing error	Flawed repairs	Unfixed problems	118	3	3
+GEODE-5410	Crash	Incorrect techniques	Modifying the settings of libraries	481	3	1
+GEODE-6740	Crash	Problems in the network	Repairing as technical debts	223	8	7
+GROOVY-8041	Unexpected behavior	Incompatible issues	Deep copying	118	1	6
+HADOOP-14177	Build and testing error	Problems in operating systems	Modifying build files or options	4079	2	3
+HAWQ-1300	Build and testing error	Problems in my libraries	Switching to older versions	5190	3	2
+HDFS-13139	Unexpected behavior	Problems in settings	Modifying my settings	141	1	2
+HDFS-9513	Crash	Problems in my clients	Implementing wrappers	21871	8	12
+HIVE-18849	Crash	Problems in languages	Modifying build files or options	146	2	7
+HIVE-21367	Unexpected behavior	Problems in settings	Modifying my settings	93	5	19
+HIVEMALL-30	Build and testing error	Problems in my clients	Modifying my settings	14152	3	5
+IGNITE-5505	Unexpected behavior	Incompatible issues 	Modifying my settings	1200	5	6
+IMPALA-2511	Hang	Flaky problems	Fixed problems	4	3	2
+IMPALA-3248	Build and testing error	Problems in my libraries	Modifying build files or options	97	1	2
+IMPALA-3341	Build and testing error	Problems in languages	Deleting temporary files	543	6	8
+IMPALA-4843	Unexpected behavior	Borderline cases	Switching to newer versions	192	4	3
+IMPALA-6218	Crash	Problems in operating systems	Modifying operating systems	113	3	4
+INFRA-11589	Unexpected behavior	Unavailable resources	Modifying documents	37898	1	4
+INFRA-12559	Build and testing error	Problems in the network	Fixed problems	286	1	3
+INFRA-12589	Unexpected behavior	Problems in settings	Modifying my settings	273	1	1
+INFRA-12664	Build and testing error	Incorrect techniques	Switching to other techniques	909	3	7
+INFRA-13145	Unexpected behavior	Problems in my clients	Fixed problems	150	2	4
+INFRA-13203	Unexpected behavior	Problems in my clients	Modifying documents	0	1	1
+INFRA-14922	Build and testing error	Problems in settings	Deep copying	13	2	6
+INFRA-14971	Build and testing error	Flawed repairs	Repairing as technical debts	3842	3	18
+INFRA-15128	Build and testing error	Incompatible issues	Unfixed problems	59	3	5
+INFRA-15687	Build and testing error	Incorrect techniques	Switching to other techniques	0	3	3
+INFRA-15934	Build and testing error	Unavailable resources	Fixed problems	6	2	3
+INFRA-15981	Build and testing error	Problems in my libraries	Deep copying	249	2	2
+INFRA-16907	Build and testing error	Problems in my clients	Modifying my settings	60	1	4
+INFRA-18150	Build and testing error	Unavailable resources	Modifying my settings	82	6	11
+ISIS-1963	Crash	Problems in my libraries	Bypassing APIs with bugs	91	1	3
+JCLOUDS-1169	Crash	Problems in my libraries	Switching to older versions	17	3	6
+JCLOUDS-1293	Crash	Problems in the network	Implementing wrappers + Repairing as technical debts	623	3	10
+JCLOUDS-1326	Crash	Problems in settings	Modifying my settings	19	3	3
+JCLOUDS-487	Unexpected behavior	Problems in my clients	Modifying API calls	25055	3	1
+JENA-1207	Crash	Problems in my clients	Modifying API calls	6	3	7
+JEXL-259	Crash	Incompatible issues	Switching to other techniques	840	3	5
+KAFKA-4149	Build and testing error	Problems in settings	Modifying build files or options	3265	3	4
+KAFKA-5861	Hang	Problems in my clients	Modifying API calls	92	1	7
+KUDU-1419	Crash	Problems in operating systems	Modifying operating systems	667	6	13
+KUDU-282	Crash	Problems in settings	Modifying my settings	9155	4	5
+KYLIN-1089	Crash	Problems in my libraries	Switching to newer versions	9304	3	3
+KYLIN-1842	Crash	Problems in my libraries	Modifying the settings of libraries	3031	4	10
+KYLIN-2020	Build and testing error	Problems in my libraries	Modifying the settings of libraries	1096	1	1
+KYLIN-2326	Crash	Problems in settings	Switching to newer versions	191	1	1
+KYLIN-2587	Crash	Problems in my libraries	Modifying my settings	2062	2	1
+KYLIN-4082	Crash	Unavailable resources	Modifying build files or options	1170	1	1
+KYLIN-4123	Crash	Problems in my libraries	Switching to older versions	665	2	1
+LENS-1009	Crash	Problems in my clients	Fixed problems	2258	4	3
+LIVY-49	Crash	Problems in my libraries	Fixed problems	653	5	6
+LOG4J2-2281	Crash	Problems in my clients	Fixed problems	3	3	4
+LUCENE-7248	Crash	Problems in my clients	Unfixed problems	69	3	10
+MADLIB-889	Unexpected behavior	Problems in settings	Modifying my settings	29364	2	2
+MASSEMBLY-828	Unexpected behavior	Problems in my clients	Modifying my settings	5	2	3
+MCOMPILER-277	Build and testing error	Incorrect techniques	Switching to other techniques	1	2	6
+MESOS-4827	Crash	Problems in settings	Modifying my settings	6032	10	10
+MESOS-5441	Build and testing error	Problems in operating systems	Modifying operating systems	1	2	1
+MESOS-5624	Build and testing error	Problems in settings	Modifying build files or options	768	2	5
+MESOS-5672	Unexpected behavior	Problems in languages	Modifying input values	64	3	6
+MESOS-6577	Crash	Problems in settings	Modifying my settings	92	3	4
+MESOS-7216	Unexpected behavior	Flawed repairs	Modifying my settings	558	3	2
+MNG-6417	Unexpected behavior	Problems in my libraries	Deep copying + Modifying the settings of libraries	5250	7	10
+MRM-1845	Unexpected behavior	Problems in operating systems	Modifying operating systems	41788	2	3
+MRM-1881	Crash	Problems in my libraries + Problems in settings 	Modifying the settings of libraries	34373	4	11
+MYFACES-2869	Unexpected behavior	Incorrect techniques	Modifying API calls	61362	2	3
+MYFACES-3104	Crash	Problems in my clients	Modifying the settings of libraries + Modifying API calls	55639	9	28
+NEMO-416	Crash	Problems in my libraries	Bypassing APIs with bugs	212	1	1
+NETBEANS-2733	Unexpected behavior	Problems in settings	Deleting temporary files	5	1	1
+NETBEANS-2840	Build and testing error	Unavailable resources	Modifying my settings	67	4	13
+NIFIREG-142	Crash	Problems in my libraries	Switching to other libraries	154	4	5
+ODE-1073	Crash	Problems in settings	Modifying my settings	0	1	1
+OFBIZ-6807	Crash	Flawed repairs	Modifying my settings	25585	6	13
+OFBIZ-9664	Unexpected behavior	Flawed repairs	Modifying my settings	8997	2	4
+OLINGO-926	Unexpected behavior	Problems in settings	Switching to other techniques	482	2	3
+OPENJPA-2671	Unexpected behavior	Incompatible issues	Modifying my settings	627	4	9
+OPENNLP-1129	Build and testing error	Unavailable resources	Unfixed problems	4924	2	1
+PDFBOX-4396	Crash	Problems in languages	Unfixed problems	44	3	11
+PLC4X-116	Build and testing error	Problems in settings	Modifying build files or options	28	1	1
+RNG-38	Build and testing error	Problems in my libraries	Modifying my settings	2012	3	10
+SENTRY-951	Unexpected behavior	Problems in my clients	Modifying my settings	6117	6	15
+SOLR-11335	Crash	Problems in operating systems	Fixed problems	13564	3	5
+SOLR-11369	Security threat	Problems in settings	Switching to newer versions + Modifying my settings	10821	4	5
+SOLR-11386	Unexpected behavior	Problems in settings	Modifying my settings	985	3	13
+SOLR-13463	Security threat	Problems in settings	Modifying my settings	127	2	5
+SOLR-6209	Hang	Problems in my libraries	Modifying the settings of libraries	19866	4	4
+SOLR-8876	Crash	Problems in languages	Modifying my settings	8502	5	14
+SOLR-9448	Crash	Borderline cases	Modifying my settings	2854	2	7
+SOLR-9643	Unexpected behavior	Problems in operating systems	Modifying operating systems	121	3	3
+SOLR-9862	Crash	Problems in operating systems	Modifying operating systems	71	6	11
+SOLR-9958	Crash	Problems in operating systems	Fixed problems	19293	2	5
+SPARK-11516	Unexpected behavior	Problems in settings	Modifying my settings	5224	4	5
+SPARK-13246	Hang	Problems in my libraries	Modifying build files or options	1252	2	2
+SPARK-13612	Unexpected behavior	Problems in my clients	Modifying API calls	14833	4	1
+SPARK-13863	Unexpected behavior	Problems in my clients	Modifying API calls	100	4	7
+SPARK-14203	Unexpected behavior	Problems in my clients	Modifying API calls	45	2	3
+SPARK-20394	Unexpected behavior	Problems in settings	Modifying my settings	2208	3	4
+SPARK-22711	Crash	Problems in my clients	Modifying API calls	2727	5	18
+SPOT-26	Crash	Borderline cases	Modifying my settings	2520	6	4
+SSHD-754	Crash	Problems in my clients + Problems in the network	Modifying my settings + Repairing as technical debts	1529	2	8
+SYNAPSE-1098	Unexpected behavior	Problems in my clients	Modifying API calls	22	1	1
+SYSTEMML-1071	Crash	Borderline cases	Switching to other techniques	118	1	5
+THRIFT-3358	Build and testing error	Incorrect techniques	Switching to other techniques	11683	2	3
+THRIFT-3965	Build and testing error	Unavailable resources	Modifying build files or options + Modifying documents	1728	6	16
+THRIFT-4044	Build and testing error	Problems in my libraries	Switching to older versions	2	3	5
+TIKA-2201	Crash	Problems in my libraries	Switching to other libraries	4840	2	5
+TIKA-2404	Crash	Problems in my libraries	Switching to other libraries	88	2	4
+TIKA-2405	Crash	Problems in my libraries	Switching to other libraries	87	2	5
+TIKA-2408	Crash	Problems in my libraries	Switching to other libraries	70	2	4
+TINKERPOP-1881	Crash	Problems in my clients	Modifying input formats	2	2	6
+TINKERPOP-2286	Unexpected behavior	Incompatible issues	Overridden APIs	155	3	13
+TOBAGO-319	Unexpected behavior	Problems in my clients	Modifying API calls	81668	1	4
+TOBAGO-572	Crash	Problems in languages	Bypassing APIs with bugs	89435	2	17
+TOMEE-2181	Crash	Problems in settings	Modifying my settings	2301	4	7
+TOMEE-2183	Crash	Problems in settings	Modifying my settings	2039	4	16
+TOREE-353	Unexpected behavior	Problems in my libraries	Unfixed problems	932	3	3
+TOREE-411	Unexpected behavior	Problems in my libraries	Modifying the settings of libraries	96	4	12
+TOREE-428	Crash	Problems in my libraries	Bypassing APIs with bugs	3294	7	7
+WEEX-229	Unexpected behavior	Problems in my clients	Modifying input formats	1828	2	1
+XMLBEANS-512	Crash	Problems in my libraries	Switching to other libraries	39387	5	2
+YARN-8279	Crash	Problems in settings	Modifying my settings	3669	4	4
+ZEPPELIN-2877	Build and testing error	Problems in my libraries	Switching to older versions + Modifying build files or options	6941	5	3
+ZEPPELIN-3195	Unexpected behavior	Problems in settings	Modifying documents	731	1	7
+ZEPPELIN-3918	Build and testing error	Problems in my libraries	Switching to newer versions	148	4	2
+ZEPPELIN-4002	Unexpected behavior	Problems in my clients	Modifying input values	118	3	1
+ZOOKEEPER-3151	Build and testing error	Problems in settings	Modifying my settings	4	3	5
